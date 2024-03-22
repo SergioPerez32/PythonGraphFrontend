@@ -1,0 +1,24 @@
+{
+  "name": "pythongraphfrontend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SergioPerez32/PythonGraphFrontend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SergioPerez32/PythonGraphFrontend/issues"
+  },
+  "homepage": "https://github.com/SergioPerez32/PythonGraphFrontend#readme",
+  "devDependencies": {
+    "axios": "^1.6.8",
+    "express": "^4.19.1"
+  }
+}
